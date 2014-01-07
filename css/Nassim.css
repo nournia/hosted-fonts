@@ -1,0 +1,10 @@
+@font-face {
+	font-family: Nassim;
+	font-weight: normal;
+	src: url('../fonts/bnasim.eot?#') format('eot'), url('../fonts/bnasim.woff') format('woff'), url('../fonts/bnasim.ttf') format('truetype');
+}
+@font-face {
+	font-family: Nassim;
+	font-weight: bold;
+	src: url('../fonts/bnasimbd.eot?#') format('eot'), url('../fonts/bnasimbd.woff') format('woff'), url('../fonts/bnasimbd.ttf') format('truetype');
+}
