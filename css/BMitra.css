@@ -1,0 +1,10 @@
+@font-face {
+	font-family: BMitra;
+	font-weight: normal;
+	src: url('../fonts/bmitra.eot?#') format('eot'), url('../fonts/bmitra.woff') format('woff'), url('../fonts/bmitra.ttf') format('truetype');
+}
+@font-face {
+	font-family: BMitra;
+	font-weight: bold;
+	src: url('../fonts/bmitrabd.eot?#') format('eot'), url('../fonts/bmitrabd.woff') format('woff'), url('../fonts/bmitrabd.ttf') format('truetype');
+}

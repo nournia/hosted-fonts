@@ -1,0 +1,10 @@
+@font-face {
+	font-family: BNazanin;
+	font-weight: normal;
+	src: url('../fonts/bnazanin.eot?#') format('eot'), url('../fonts/bnazanin.woff') format('woff'), url('../fonts/bnazanin.ttf') format('truetype');
+}
+@font-face {
+	font-family: BNazanin;
+	font-weight: bold;
+	src: url('../fonts/bnazaninbd.eot?#') format('eot'), url('../fonts/bnazaninbd.woff') format('woff'), url('../fonts/bnazaninbd.ttf') format('truetype');
+}
