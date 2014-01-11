@@ -1,0 +1,21 @@
+@font-face {
+	font-family: BMitra;
+	font-weight: normal;
+	src: url('../fonts/bmitra.eot?#') format('eot'), url('../fonts/bmitra.woff') format('woff'), url('../fonts/bmitra.ttf') format('truetype');
+}
+@font-face {
+	font-family: BMitra;
+	font-weight: bold;
+	src: url('../fonts/bmitrabd.eot?#') format('eot'), url('../fonts/bmitrabd.woff') format('woff'), url('../fonts/bmitrabd.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: ENassim;
+	font-weight: normal;
+	src: url('../fonts/enassim.eot?#') format('eot'), url('../fonts/enassim.woff') format('woff'), url('../fonts/enassim.ttf') format('truetype');
+}
+@font-face {
+	font-family: ENassim;
+	font-weight: bold;
+	src: url('../fonts/enassimbd.eot?#') format('eot'), url('../fonts/enassimbd.woff') format('woff'), url('../fonts/enassimbd.ttf') format('truetype');
+}
