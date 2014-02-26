@@ -1,0 +1,10 @@
+@font-face {
+	font-family: IRMitra;
+	font-weight: normal;
+	src: url('../fonts/IRMitra.ttf') format('truetype');
+}
+@font-face {
+	font-family: IRMitra;
+	font-weight: bold;
+	src: url('../fonts/IRMitraBd.ttf') format('truetype');
+}
